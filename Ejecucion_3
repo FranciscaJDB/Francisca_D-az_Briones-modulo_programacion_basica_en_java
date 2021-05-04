@@ -1,0 +1,67 @@
+Actividad I
+•	Considerar dos problemas que se puedan resolver aplicando tecnología (software)
+•	Analizar y definir tres requisitos funcionales, determinar todas las variables y constantes existentes en estos requisitos
+•	Desarrollar algoritmos para cada requisito
+
+Problema 1: Realizar una presentación de Power point 
+Requerimientos Funcionales:
+Internet
+medio de conectividad (celular, notebook, etc.)
+Información
+escritorio
+Materiales de trabajo (imágenes, audios, etc.)
+Luz eléctrica
+Programa instalado
+Variables: 
+
+Extensión del documento
+Conexión de internet
+Requerimientos de la tarea
+
+Constantes: Horas de trabajo definidas por contrato
+Información solicitada
+
+Algoritmo:
+Disponer de la información e imágenes previamente guardadas
+Abrir Power point 
+Seleccionar plantilla
+Completar cada diapositiva con información e imágenes 
+Revisar la información 
+Ver la presentación para descartar errores 
+Guardar el documento
+
+Salida: Documento solicitado listo para ser entregado
+
+Problema 2: Crear lista de compras para una receta, revisar precios en supermercado y calcular total
+
+Requerimientos funcionales 
+Receta 
+Planilla Excel con materiales y lista para datos de precios
+Internet
+Notebook 
+Calculadora
+Espacio en condiciones para realizar la tarea (luz, mesa, etc.)
+
+Variables: 
+
+Precios de los productos de la lista
+Marcas de productos a utilizar 
+Duración de la actividad 
+Conexión de internet 
+
+Constantes: 
+Cantidad de productos de la receta 
+
+Algoritmo
+
+Revisar la receta y desglosar los materiales
+Prender el notebook
+Conectarme a internet 
+Entrar a la página del supermercado
+Buscar los productos de la receta
+Anotar sus precios en una lista
+Sumar todos los precios de la lista
+
+Salida: Receta con costo de materiales.
+
+
